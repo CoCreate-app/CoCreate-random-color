@@ -14,3 +14,4 @@ function randomHSLColor(){
   var hash = Math.floor(Math.random() * (360));
   return 'hsla('+hash+', '+defaultSaturation+'%, '+defaultLightness+'%, '+defaultAlpha+')';
 }
+
