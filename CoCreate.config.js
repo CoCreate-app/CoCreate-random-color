@@ -9,7 +9,7 @@ module.exports = {
     sources: [{
             path: "./docs/index.html",
             collection: "files",
-            document_id: "",
+            document_id: "6020a8983c260207bf49cad2",
             key: "html",
             data:{
                 name: "Random Color Doc",
@@ -19,10 +19,10 @@ module.exports = {
    
     crud: [{
             collection: "routes",
-            document_id: "",
+            document_id: "6020a8983c260207bf49cad1",
             data:{
                 collection: "files",
-                document_id: "",
+                document_id: "6020a8983c260207bf49cad2",
                 name: "html",
                 domains: ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
                 route: "/docs/random-color",
