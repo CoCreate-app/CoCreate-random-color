@@ -15,3 +15,5 @@ function randomHSLColor(){
   return 'hsla('+hash+', '+defaultSaturation+'%, '+defaultLightness+'%, '+defaultAlpha+')';
 }
 
+const CoCreateRandomColor = { randomHSLColor, randomHSLColor };
+export default CoCreateRandomColor;
