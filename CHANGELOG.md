@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.0.2...v1.0.3) (2021-06-24)
+
+
+### Bug Fixes
+
+* package versioningto 1.0.0 ([0f07d43](https://github.com/CoCreate-app/CoCreate-random-color/commit/0f07d439a1b966ca2f8ac4986621597efd883d5a))
+
 ## [1.0.2](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.0.1...v1.0.2) (2021-06-24)
 
 
