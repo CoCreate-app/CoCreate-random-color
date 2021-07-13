@@ -1,3 +1,11 @@
+## [1.0.9](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.0.8...v1.0.9) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([fe77ef9](https://github.com/CoCreate-app/CoCreate-random-color/commit/fe77ef9a8daedc1ee1e9a39a81b5e29aad1bf7a0))
+* remove yarn.lock ([fd1e28e](https://github.com/CoCreate-app/CoCreate-random-color/commit/fd1e28e7cf257748086902e21d045180dc256c8a))
+
 ## [1.0.8](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.0.7...v1.0.8) (2021-07-10)
 
 
