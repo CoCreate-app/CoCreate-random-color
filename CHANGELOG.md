@@ -1,3 +1,11 @@
+## [1.0.11](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.0.10...v1.0.11) (2021-07-17)
+
+
+### Bug Fixes
+
+* init and update demos scripts ([c5059db](https://github.com/CoCreate-app/CoCreate-random-color/commit/c5059db8823350534ca3872c9f24e8ea4942d29d))
+* workflows ([22d4c58](https://github.com/CoCreate-app/CoCreate-random-color/commit/22d4c58aba25cb3567aae4eb8e0401981bd230ee))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.0.9...v1.0.10) (2021-07-14)
 
 
