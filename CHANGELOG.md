@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.0.11...v1.1.0) (2021-07-28)
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([3ce02db](https://github.com/CoCreate-app/CoCreate-random-color/commit/3ce02db0c08f3fc591864cbae6ce76772375a2bf))
+
 ## [1.0.11](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.0.10...v1.0.11) (2021-07-17)
 
 
