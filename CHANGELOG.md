@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.1.0...v1.1.1) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([7e67639](https://github.com/CoCreate-app/CoCreate-random-color/commit/7e67639d2d35ce23262bb46ee102a26e7e2841f5))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.0.11...v1.1.0) (2021-07-28)
 
 
