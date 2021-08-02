@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.1.1...v1.1.2) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([bb2c841](https://github.com/CoCreate-app/CoCreate-random-color/commit/bb2c8410be1a9388b0e2f059900bbb700470d377))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.1.0...v1.1.1) (2021-07-28)
 
 
