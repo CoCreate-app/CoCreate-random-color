@@ -4,8 +4,8 @@ let defaultAlpha = 1;
 
 
 function updateRandomColor(){
-  let avatars = document.querySelectorAll("[data-background_color='random']");
-  for(let el of avatars){
+  let elements = document.querySelectorAll("[background-color='random']");
+  for(let el of elements){
     el.style.backgroundColor = randomHSLColor();
   }
 }
