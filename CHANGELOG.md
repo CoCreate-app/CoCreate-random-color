@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.1.10...v1.1.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([2d7ece0](https://github.com/CoCreate-app/CoCreate-random-color/commit/2d7ece0a3311f8b600695fd9501dff3fd7535fa6))
+
 ## [1.1.10](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.1.9...v1.1.10) (2021-09-08)
 
 
