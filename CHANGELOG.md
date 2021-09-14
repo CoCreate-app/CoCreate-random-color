@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.1.15...v1.1.16) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([938d025](https://github.com/CoCreate-app/CoCreate-random-color/commit/938d02511dfc163cb69cfcefcf89d311f2401ddf))
+
 ## [1.1.15](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.1.14...v1.1.15) (2021-09-13)
 
 
