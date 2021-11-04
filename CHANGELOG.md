@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.1.35...v1.2.0) (2021-11-04)
+
+
+### Features
+
+* now works with html attribute or randomColor() function ([1d29be5](https://github.com/CoCreate-app/CoCreate-random-color/commit/1d29be5c1c396b0e5e4c3a53b95b31edda721bf1))
+
 ## [1.1.35](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.1.34...v1.1.35) (2021-11-04)
 
 
