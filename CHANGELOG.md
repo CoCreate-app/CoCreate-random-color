@@ -1,3 +1,10 @@
+## [1.2.8](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.7...v1.2.8) (2021-11-20)
+
+
+### Bug Fixes
+
+* updated script tags and link tags ([6168350](https://github.com/CoCreate-app/CoCreate-random-color/commit/61683502dbe602766c617d054f9c65bcc1bbe25c))
+
 ## [1.2.7](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.6...v1.2.7) (2021-11-20)
 
 
