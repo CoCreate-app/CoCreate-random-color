@@ -1,3 +1,10 @@
+## [1.2.9](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.8...v1.2.9) (2021-11-20)
+
+
+### Bug Fixes
+
+* remove cdn.CoCreate.min.css ([2cc7083](https://github.com/CoCreate-app/CoCreate-random-color/commit/2cc70830cc49d1777ec2991753f06971668ab9f2))
+
 ## [1.2.8](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.7...v1.2.8) (2021-11-20)
 
 
