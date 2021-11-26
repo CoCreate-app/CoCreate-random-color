@@ -1,3 +1,11 @@
+## [1.2.11](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.10...v1.2.11) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([25b8ed1](https://github.com/CoCreate-app/CoCreate-random-color/commit/25b8ed10e5b75cb71f0c76b98feb78320338ec58))
+* update dependencies ([d542791](https://github.com/CoCreate-app/CoCreate-random-color/commit/d54279153b7dee31f8aee12d41d6180d6f1c98f6))
+
 ## [1.2.10](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.9...v1.2.10) (2021-11-23)
 
 
