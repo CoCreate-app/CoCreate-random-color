@@ -1,3 +1,10 @@
+## [1.2.12](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.11...v1.2.12) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([172e0a1](https://github.com/CoCreate-app/CoCreate-random-color/commit/172e0a1d3df91d1fbe443796d510454e3b1a428b))
+
 ## [1.2.11](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.10...v1.2.11) (2021-11-26)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/random-color",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "description": "A simple HTML5 and pure javascript component. Easy configuration using HTML5 attributes or Javscript api and/or JavaScript API. Highly customizable and styleable.",
   "keywords": [
     "cocreate",
