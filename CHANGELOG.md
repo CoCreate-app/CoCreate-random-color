@@ -1,3 +1,10 @@
+## [1.2.17](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.16...v1.2.17) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([c636cac](https://github.com/CoCreate-app/CoCreate-random-color/commit/c636cac4fbd0d96a0c96f5323c040df5f840d576))
+
 ## [1.2.16](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.15...v1.2.16) (2021-12-15)
 
 
