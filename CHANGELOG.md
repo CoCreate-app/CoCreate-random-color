@@ -1,3 +1,10 @@
+## [1.2.19](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.18...v1.2.19) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([7686a5d](https://github.com/CoCreate-app/CoCreate-random-color/commit/7686a5d8d9b0f083f9f023eb6005d1fc27ba1aed))
+
 ## [1.2.18](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.17...v1.2.18) (2022-02-01)
 
 
