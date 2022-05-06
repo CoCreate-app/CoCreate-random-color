@@ -1,3 +1,10 @@
+## [1.2.24](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.23...v1.2.24) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([8eca10d](https://github.com/CoCreate-app/CoCreate-random-color/commit/8eca10da6eb00772cee0e91e4b1cf22c13aa85c4))
+
 ## [1.2.23](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.22...v1.2.23) (2022-02-24)
 
 
