@@ -1,3 +1,10 @@
+## [1.2.35](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.34...v1.2.35) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([91fed28](https://github.com/CoCreate-app/CoCreate-random-color/commit/91fed28feed3445bd65a20e735aef209e72f8b4e))
+
 ## [1.2.34](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.33...v1.2.34) (2022-10-01)
 
 
