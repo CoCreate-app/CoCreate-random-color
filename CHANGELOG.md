@@ -1,3 +1,10 @@
+## [1.2.39](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.38...v1.2.39) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([a520611](https://github.com/CoCreate-app/CoCreate-random-color/commit/a52061152d77fbd21a649b89659167f17b0ac4e0))
+
 ## [1.2.38](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.37...v1.2.38) (2022-11-21)
 
 
