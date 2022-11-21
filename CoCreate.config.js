@@ -10,7 +10,7 @@ module.exports = {
             "collection": "files",
             "document_id": "6020a8983c260207bf49cad2",
             "key": "src",
-            "data": {
+            "document": {
                 "name": "index.html",
                 "path": "/docs/random-color/index.html",
                 "domains": [
