@@ -1,3 +1,11 @@
+## [1.2.41](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.40...v1.2.41) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([d3f42f8](https://github.com/CoCreate-app/CoCreate-random-color/commit/d3f42f8e0c2342dafc4de90dec0e0ac53ffe8805))
+* workflow docs ([eede12a](https://github.com/CoCreate-app/CoCreate-random-color/commit/eede12a0797bf42b2bfa38d72cc75b7a10bbeecc))
+
 ## [1.2.40](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.39...v1.2.40) (2022-11-21)
 
 
