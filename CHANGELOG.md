@@ -1,3 +1,10 @@
+## [1.2.50](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.49...v1.2.50) (2022-12-02)
+
+
+### Bug Fixes
+
+* docs ([2df62f5](https://github.com/CoCreate-app/CoCreate-random-color/commit/2df62f5e2d18649516d78978ade2bb00f9a1565b))
+
 ## [1.2.49](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.48...v1.2.49) (2022-12-02)
 
 
