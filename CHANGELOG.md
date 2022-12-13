@@ -1,3 +1,10 @@
+## [1.2.58](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.57...v1.2.58) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([2a109d3](https://github.com/CoCreate-app/CoCreate-random-color/commit/2a109d3b98c99cd16875032bc0c10333243c39e6))
+
 ## [1.2.57](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.56...v1.2.57) (2022-12-13)
 
 
