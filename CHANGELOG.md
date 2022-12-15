@@ -1,3 +1,10 @@
+## [1.2.59](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.58...v1.2.59) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([ca1da54](https://github.com/CoCreate-app/CoCreate-random-color/commit/ca1da54b82b4c346b15c728787d55226af1914d3))
+
 ## [1.2.58](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.57...v1.2.58) (2022-12-13)
 
 
