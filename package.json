@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/random-color",
-  "version": "1.2.60",
+  "version": "1.2.61",
   "description": "A simple HTML5 and pure javascript component. Easy configuration using HTML5 attributes or Javscript api and/or JavaScript API. Highly customizable and styleable.",
   "keywords": [
     "cocreate",
@@ -18,7 +18,9 @@
     "html5-framework",
     "javascript-framework"
   ],
-  "publishConfig": { "access": "public" },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "npx webpack --config webpack.config.js",
     "build": "NODE_ENV=production npx webpack --config webpack.config.js",
@@ -55,5 +57,7 @@
     "webpack-cli": "^4.5.0",
     "webpack-log": "^3.0.1"
   },
-  "dependencies": { "@cocreate/docs": "^1.4.21" }
+  "dependencies": {
+    "@cocreate/docs": "^1.4.21"
+  }
 }
