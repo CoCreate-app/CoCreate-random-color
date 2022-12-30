@@ -1,3 +1,10 @@
+## [1.2.68](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.67...v1.2.68) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([6ce997b](https://github.com/CoCreate-app/CoCreate-random-color/commit/6ce997b4563cf05373785ffb7e89ff4495646965))
+
 ## [1.2.67](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.66...v1.2.67) (2022-12-29)
 
 
