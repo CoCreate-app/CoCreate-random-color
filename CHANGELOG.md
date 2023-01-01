@@ -1,3 +1,10 @@
+## [1.2.70](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.69...v1.2.70) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([ef8db9a](https://github.com/CoCreate-app/CoCreate-random-color/commit/ef8db9a3c305c41fe3500d2866f8d7ec2c15bad0))
+
 ## [1.2.69](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.68...v1.2.69) (2022-12-31)
 
 
