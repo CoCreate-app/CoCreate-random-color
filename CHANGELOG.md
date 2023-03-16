@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.80...v1.3.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([1ba2900](https://github.com/CoCreate-app/CoCreate-random-color/commit/1ba2900bc7514796434b8b5c9f590ee6934b0b60))
+
 ## [1.2.80](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.2.79...v1.2.80) (2023-02-01)
 
 
