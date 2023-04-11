@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.3.3...v1.3.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([7d83450](https://github.com/CoCreate-app/CoCreate-random-color/commit/7d83450299689f5e295bd7d65dbf06ded540cfe7))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.3.2...v1.3.3) (2023-03-30)
 
 
