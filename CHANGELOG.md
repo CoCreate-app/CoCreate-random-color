@@ -1,3 +1,11 @@
+## [1.4.3](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.2...v1.4.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([8441245](https://github.com/CoCreate-app/CoCreate-random-color/commit/84412457d13b1f6aaa29a4d0dfefc40f5ec4725b))
+* workflow node version updated  16 ([23f86e1](https://github.com/CoCreate-app/CoCreate-random-color/commit/23f86e1cdec9fe5ced36f81d8959bd546a0f68cc))
+
 ## [1.4.2](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.1...v1.4.2) (2023-04-24)
 
 
