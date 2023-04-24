@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.0...v1.4.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([3fa0d58](https://github.com/CoCreate-app/CoCreate-random-color/commit/3fa0d585d3eb94751f27cf10d46385e0ba60b880))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.3.6...v1.4.0) (2023-04-24)
 
 
