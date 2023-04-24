@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.3.6...v1.4.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([c2efb49](https://github.com/CoCreate-app/CoCreate-random-color/commit/c2efb4916a75b6baf0357b635e370e214d6dbea0))
+
 ## [1.3.6](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.3.5...v1.3.6) (2023-04-11)
 
 
