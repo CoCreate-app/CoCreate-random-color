@@ -1,3 +1,12 @@
+## [1.4.4](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.3...v1.4.4) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([bc12216](https://github.com/CoCreate-app/CoCreate-random-color/commit/bc122167d36eef36439d6b6e3c562d3aa7d00770))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([ca10522](https://github.com/CoCreate-app/CoCreate-random-color/commit/ca10522bb47caf9955fe12a87cd414e34273299d))
+* removed toogle fullscreen icons. now using css content ([7663ae0](https://github.com/CoCreate-app/CoCreate-random-color/commit/7663ae09aef82c9c35c196dc99d65522f097fa13))
+
 ## [1.4.3](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.2...v1.4.3) (2023-04-24)
 
 
