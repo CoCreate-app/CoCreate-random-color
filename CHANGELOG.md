@@ -1,3 +1,10 @@
+## [1.4.5](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.4...v1.4.5) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([b4b4c80](https://github.com/CoCreate-app/CoCreate-random-color/commit/b4b4c8079d34b1e162b001363805494b6795e9ce))
+
 ## [1.4.4](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.3...v1.4.4) (2023-04-30)
 
 
