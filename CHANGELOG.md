@@ -1,3 +1,10 @@
+## [1.4.6](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.5...v1.4.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([6202da7](https://github.com/CoCreate-app/CoCreate-random-color/commit/6202da759e7ce988edb93cc88bd9600d0ac1b209))
+
 ## [1.4.5](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.4...v1.4.5) (2023-05-01)
 
 
