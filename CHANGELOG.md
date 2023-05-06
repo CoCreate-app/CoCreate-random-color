@@ -1,3 +1,10 @@
+## [1.4.7](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.6...v1.4.7) (2023-05-06)
+
+
+### Bug Fixes
+
+* bump [@cocreate](https://github.com/cocreate) dependencies ([0fba468](https://github.com/CoCreate-app/CoCreate-random-color/commit/0fba468a9c363e70c2fac58683da0d587d46c8bf))
+
 ## [1.4.6](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.5...v1.4.6) (2023-05-01)
 
 
