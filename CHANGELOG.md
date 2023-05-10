@@ -1,3 +1,10 @@
+## [1.4.8](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.7...v1.4.8) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([107fcc5](https://github.com/CoCreate-app/CoCreate-random-color/commit/107fcc54bcc0ec6d2ba23d5e99e22c8054e7c682))
+
 ## [1.4.7](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.6...v1.4.7) (2023-05-06)
 
 
