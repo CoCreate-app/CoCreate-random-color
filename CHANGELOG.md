@@ -1,3 +1,10 @@
+## [1.4.11](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.10...v1.4.11) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([ac5276d](https://github.com/CoCreate-app/CoCreate-random-color/commit/ac5276d38f361aa6c8397fb1ec7ec267d64921ff))
+
 ## [1.4.10](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.9...v1.4.10) (2023-05-21)
 
 
