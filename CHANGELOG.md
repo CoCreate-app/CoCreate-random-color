@@ -1,3 +1,11 @@
+## [1.4.13](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.12...v1.4.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([30c0a69](https://github.com/CoCreate-app/CoCreate-random-color/commit/30c0a6917642b1187dbdf8eb6622ae82810650fc))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([3a02045](https://github.com/CoCreate-app/CoCreate-random-color/commit/3a02045853e544a1042734109609aed0041a5440))
+
 ## [1.4.12](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.11...v1.4.12) (2023-06-04)
 
 
