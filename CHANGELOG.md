@@ -1,3 +1,10 @@
+## [1.4.14](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.13...v1.4.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([fb2bff6](https://github.com/CoCreate-app/CoCreate-random-color/commit/fb2bff64c7f5558b53e7cc90f4c4257b91adb6a7))
+
 ## [1.4.13](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.12...v1.4.13) (2023-06-04)
 
 
