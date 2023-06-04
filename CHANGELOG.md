@@ -1,3 +1,10 @@
+## [1.4.12](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.11...v1.4.12) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([7ce4311](https://github.com/CoCreate-app/CoCreate-random-color/commit/7ce4311cadb1109dd4b225e6e2a36c8d27480de7))
+
 ## [1.4.11](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.10...v1.4.11) (2023-06-02)
 
 
