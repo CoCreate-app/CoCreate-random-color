@@ -1,3 +1,11 @@
+## [1.4.19](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.18...v1.4.19) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([5bf143d](https://github.com/CoCreate-app/CoCreate-random-color/commit/5bf143d7cc2b9ef9ffca93dfde413753faedf443))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([62fe6d8](https://github.com/CoCreate-app/CoCreate-random-color/commit/62fe6d846e8b720ebc7bcad42e42212055d37490))
+
 ## [1.4.18](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.17...v1.4.18) (2023-06-11)
 
 
