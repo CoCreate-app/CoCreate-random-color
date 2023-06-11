@@ -1,3 +1,10 @@
+## [1.4.16](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.15...v1.4.16) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([dae1caf](https://github.com/CoCreate-app/CoCreate-random-color/commit/dae1caf0923f004d20646763d01a6a31b1b02322))
+
 ## [1.4.15](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.14...v1.4.15) (2023-06-10)
 
 
