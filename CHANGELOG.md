@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.26...v1.5.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([bd66679](https://github.com/CoCreate-app/CoCreate-random-color/commit/bd6667984f87195dc4b9c215b4b5f5f0e5e26e31))
+* replace -target -selector ([bcc788c](https://github.com/CoCreate-app/CoCreate-random-color/commit/bcc788c699b017126d0b6e00fb299adbdc226605))
+* webpack.config and package.json make use of mode=production instead of process.env ([62db8fb](https://github.com/CoCreate-app/CoCreate-random-color/commit/62db8fb68156b15583d358b44bf771582e6953c2))
+
+
+### Features
+
+* name attribute and variable renamed to key ([002d2a5](https://github.com/CoCreate-app/CoCreate-random-color/commit/002d2a53f0d1e00e9cfac28af8c2a446153bc09b))
+
 ## [1.4.26](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.4.25...v1.4.26) (2023-06-14)
 
 
