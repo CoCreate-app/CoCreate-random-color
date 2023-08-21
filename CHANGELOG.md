@@ -1,3 +1,12 @@
+## [1.6.1](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.6.0...v1.6.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([96ce89b](https://github.com/CoCreate-app/CoCreate-random-color/commit/96ce89bb3b4c7c0929c401a603f3d8525e10e162))
+* replace cdn with /dist ([b393c8d](https://github.com/CoCreate-app/CoCreate-random-color/commit/b393c8d1321488d21a0c34ee3def117401b1a8c0))
+* update file uploader ([5e76977](https://github.com/CoCreate-app/CoCreate-random-color/commit/5e76977311febedf7859bbc35f13a59e5c755d53))
+
 # [1.6.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.5.0...v1.6.0) (2023-08-17)
 
 
