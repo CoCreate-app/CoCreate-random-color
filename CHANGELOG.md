@@ -1,3 +1,11 @@
+## [1.7.2](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.7.1...v1.7.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([9c7145a](https://github.com/CoCreate-app/CoCreate-random-color/commit/9c7145a8020da2ee8fe8fa45bc27e81e052f6b30))
+* Update CoCreate depndencies to latest versions ([719f37c](https://github.com/CoCreate-app/CoCreate-random-color/commit/719f37cb9e9acf57d6ad2c677c13bfffc03b00c6))
+
 ## [1.7.1](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.7.0...v1.7.1) (2023-08-21)
 
 
