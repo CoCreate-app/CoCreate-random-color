@@ -8,17 +8,16 @@ module.exports = {
             "object": {
                 "_id": "6020a8983c260207bf49cad2",
                 "name": "index.html",
-                "path": "/docs/random-color/index.html",
+                "path": "/docs/random-color",
+                "pathname": "/docs/random-color/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
                     "*",
                     "general.cocreate.app"
                 ],
-                "directory": "/docs/random-color",
-                "parentDirectory": "{{parentDirectory}}",
+                "directory": "random-color",
                 "content-type": "{{content-type}}",
-                "public": "true",
-                "website_id": "644d4bff8036fb9d1d1fd69c"
+                "public": "true"
             }
         }
     ]
