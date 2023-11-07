@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/random-color/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "random-color",
                 "content-type": "{{content-type}}",
