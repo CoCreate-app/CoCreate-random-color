@@ -1,3 +1,11 @@
+## [1.7.3](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.7.2...v1.7.3) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([5c6f1e2](https://github.com/CoCreate-app/CoCreate-random-color/commit/5c6f1e283cf167f879548cdc38a26ed4c06d1213))
+* update host ([299b88e](https://github.com/CoCreate-app/CoCreate-random-color/commit/299b88e8ade8975fd75a3c16655cb51d78179dd2))
+
 ## [1.7.2](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.7.1...v1.7.2) (2023-09-18)
 
 
