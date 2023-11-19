@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.7.4...v1.8.0) (2023-11-19)
+
+
+### Features
+
+* update dependecies for th latest features and bug fixes ([dc89e36](https://github.com/CoCreate-app/CoCreate-random-color/commit/dc89e36cfdaa3580b90de820fb609b76bd1c1656))
+
 ## [1.7.4](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.7.3...v1.7.4) (2023-11-12)
 
 
