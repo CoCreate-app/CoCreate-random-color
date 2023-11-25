@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.8.0...v1.9.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([2d0f266](https://github.com/CoCreate-app/CoCreate-random-color/commit/2d0f2666899f5818bfb8efd96bf4fc85a35a85d7))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([6d499ea](https://github.com/CoCreate-app/CoCreate-random-color/commit/6d499ead2709c52337ab55662c0386ef06b9daff))
+
 # [1.8.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.7.4...v1.8.0) (2023-11-19)
 
 
