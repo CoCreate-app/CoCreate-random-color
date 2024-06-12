@@ -1,3 +1,16 @@
+# [1.11.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.10.1...v1.11.0) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([ea68b73](https://github.com/CoCreate-app/CoCreate-random-color/commit/ea68b739f79674aa5e9d0faedffa295da7becac2))
+* svg icon class ([befbc77](https://github.com/CoCreate-app/CoCreate-random-color/commit/befbc77995293c70f1194f0646ccf15608937c52))
+
+
+### Features
+
+* add observer to detect new element and add random color ([4bd9e32](https://github.com/CoCreate-app/CoCreate-random-color/commit/4bd9e32ef0791ac264878bc962e7b19bcd864735))
+
 ## [1.10.1](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.10.0...v1.10.1) (2024-04-29)
 
 
