@@ -22,7 +22,7 @@ export function randomColor() {
 observer.init({
     name: 'CoCreateRandomColor',
     observe: ['addedNodes'],
-    target: '[background-color="random"]',
+    selector: '[background-color="random"]',
     callback: mutation => {
         init(mutation.target);
     }
