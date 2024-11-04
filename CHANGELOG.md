@@ -1,3 +1,16 @@
+# [1.12.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.11.0...v1.12.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* observer taget has been renamed to selector ([ff013d0](https://github.com/CoCreate-app/CoCreate-random-color/commit/ff013d03f5324e102acfc3b4c9cddf650b13a07e))
+* pretier.config.js and file formating ([9253b28](https://github.com/CoCreate-app/CoCreate-random-color/commit/9253b28f97892764dcb3eec80d2a2d7c9cf119f6))
+
+
+### Features
+
+* add prettier.config.js and format files ([8218078](https://github.com/CoCreate-app/CoCreate-random-color/commit/8218078a1b01e56ab38603f40083a582481d0b10))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.10.1...v1.11.0) (2024-06-12)
 
 
