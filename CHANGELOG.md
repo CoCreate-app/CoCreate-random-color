@@ -1,3 +1,10 @@
+## [1.12.1](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.12.0...v1.12.1) (2025-04-11)
+
+
+### Bug Fixes
+
+* update observer observe param to type and and attributeName to attributeFilter ([43eea51](https://github.com/CoCreate-app/CoCreate-random-color/commit/43eea511b5c88b698f9db4937943a59f75a5bf96))
+
 # [1.12.0](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.11.0...v1.12.0) (2024-11-04)
 
 
