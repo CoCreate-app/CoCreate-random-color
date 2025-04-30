@@ -1,3 +1,13 @@
+## [1.12.2](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.12.1...v1.12.2) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([7927146](https://github.com/CoCreate-app/CoCreate-random-color/commit/7927146b1a032f33817e857fb2cd422ca2e93631))
+* update query attributes ([5dbea2a](https://github.com/CoCreate-app/CoCreate-random-color/commit/5dbea2a93f217df8b53daba6ed3f777221eafe73))
+* updated cocreate modules versions ([9888fc6](https://github.com/CoCreate-app/CoCreate-random-color/commit/9888fc67031a052654fc99afcb23c62588917b00))
+* webpack.config and devdependencies ([a292c1d](https://github.com/CoCreate-app/CoCreate-random-color/commit/a292c1d78f8a00489bde2a59527b4572fff6f88c))
+
 ## [1.12.1](https://github.com/CoCreate-app/CoCreate-random-color/compare/v1.12.0...v1.12.1) (2025-04-11)
 
 
